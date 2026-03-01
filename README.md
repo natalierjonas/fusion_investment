@@ -11,4 +11,4 @@
 
 #### Chris Wright's "revolving door" politics, Sam Altman's investment in the space and the Trump merger with Tae — likely to be the first publicly traded fusion company — will soon be much bigger news and I look forward to investigating this more!
 
-#### By commandeering a professor's Pitchbook account, I was able to aggregate investment data to compare to INFUSE grant recipients.
+#### By commandeering a professor's Pitchbook account, I was able to aggregate investment data to compare to INFUSE grant recipients and other DoE data.
